@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-checkout-extensibility-nuxt",
+  "capabilityKey": "planned:ecommerce:checkout-extensibility",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-checkout-extensibility-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/checkout-extensibility.md",
+  "presentationPlan": "projects/ecommerce/nuxt/checkout-extensibility.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
